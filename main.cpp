@@ -1,10 +1,15 @@
-#include<iostream>
+/*
+ * @Author: paradise2017
+ * @LastEditors:  paradise2017
+ * @LastEditTime: 2025-04-04 16:13:36
+ * @Description:
+ *
+ * Copyright (c) 2025 by paradise2017, All Rights Reserved.
+ */
+#include <iostream>
 using namespace std;
-int main(){
-<<<<<<< HEAD
-1请问请问请问请问我去12321312312
-=======
-2
->>>>>>> 57d59b3f13ab1153421a1a0b7f1c1d390969ea77
-return 0;
+int main()
+{
+    cout << 2 << endl;
+    return 0;
 }
