@@ -10,6 +10,6 @@
 using namespace std;
 int main()
 {
-    cout << 2 << endl;
+    cout << 21 << endl;
     return 0;
 }
